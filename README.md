@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Mateo Serafini</h1>
-<h3 align="center">Soy un estudiante autodidacta apasionado por la programación en Python. Aunque ya poseo un título; veo la programación como un pasatiempo y disfruto resolviendo problemas</h3>
+<h3 align="center">Soy un estudiante autodidacta apasionado por la programación en Python. Aunque ya poseo un título; veo la programación como un pasatiempo y disfruto resolviendo problemas.</h3>
 
 - 👨‍💻 Todas las cosas que hago están en: [https://github.com/Trawssy?tab=repositories](https://github.com/Trawssy?tab=repositories)
 
