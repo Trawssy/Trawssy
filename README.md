@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Mateo Serafini</h1>
-<h3 align="center">Me interesa aprender todo lo que sea posible, y experimentar</h3>
+<h3 align="center">Soy un estudiante autodidacta apasionado por la programación en Python. Aunque ya poseo un título; veo la programación como un pasatiempo y disfruto resolviendo problemas</h3>
 
 - 👨‍💻 Todas las cosas que hago están en: [https://github.com/Trawssy?tab=repositories](https://github.com/Trawssy?tab=repositories)
 
-- 📫 Para contactarme les dejo mi mail y discord. **matuserafini@gmail.com | Zaifer#9540**
+- 📫 Para contactarme les dejo mi mail y discord. **matuserafini@gmail.com | Zaifer#9540 | https://acortar.link/Lz6qmR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
