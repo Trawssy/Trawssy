@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todas las cosas que hago están en: [https://github.com/Trawssy?tab=repositories](https://github.com/Trawssy?tab=repositories)
 
-- 📫 Para contactarme les dejo mi mail y discord. **matuserafini@gmail.com | Zaifer#9540 | https://acortar.link/Lz6qmR**
+- 📫 Para contactarme les dejo mi mail y discord. **matuserafini@gmail.com | Zaifer#9540 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
